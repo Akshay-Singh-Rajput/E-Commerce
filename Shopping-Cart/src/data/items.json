@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/Images/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/Images/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mini Toy",
+    "price": 10.05,
+    "imgUrl": "/Images/toy.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car Toy",
+    "price": 14,
+    "imgUrl": "/Images/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Diary",
+    "price": 25.99,
+    "imgUrl": "/Images/diary.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pen",
+    "price": 19,
+    "imgUrl": "/Images/pens.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sticky Note",
+    "price": 1.05,
+    "imgUrl": "/Images/sticky-note.jpg"
+  },
+  {
+    "id": 8,
+    "name": "color Pencil",
+    "price": 1.0,
+    "imgUrl": "/Images/color-pencils.jpg"
+  }
+]
